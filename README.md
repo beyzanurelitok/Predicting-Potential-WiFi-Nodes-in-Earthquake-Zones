@@ -6,6 +6,10 @@ This project aims to determine potential WiFi points during earthquakes by using
 
 In disaster scenarios, especially earthquakes, communication networks are often disrupted. This project identifies potential WiFi points around the user's location based on earthquake data and calculates the proximity of these points to the user. 
 
+## Development Environment
+
+This project was developed using **Anaconda** and **Spyder** as the development environment.
+
 ## Features
 
 - Dataset: Earthquake data from Kandilli Observatory.
