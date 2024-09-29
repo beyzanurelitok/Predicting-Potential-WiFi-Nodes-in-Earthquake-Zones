@@ -41,3 +41,6 @@ This project was developed using **Anaconda**-**Spyder** as the development envi
 1. Add the earthquake data and shapefile to the project directory.
 2. Run the Python script and input your coordinates.
 3. View the results on the map and see the distances to the WiFi points.
+
+
+**Prepared by**: Beyza Nur Elitok
