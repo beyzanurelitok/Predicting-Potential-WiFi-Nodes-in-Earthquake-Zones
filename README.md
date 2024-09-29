@@ -8,7 +8,7 @@ In disaster scenarios, especially earthquakes, communication networks are often 
 
 ## Development Environment
 
-This project was developed using **Anaconda** and **Spyder** as the development environment.
+This project was developed using **Anaconda**-**Spyder** as the development environment.
 
 ## Features
 
